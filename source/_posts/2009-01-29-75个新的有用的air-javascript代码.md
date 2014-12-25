@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-01-29 00:00:00
 title: 75个新的有用的AIR javascript代码
 categories:
 - Air

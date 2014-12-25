@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-01-02 00:00:00
 title: 在ubuntu下用vbox可以使用windows
 categories:
 - ubuntu

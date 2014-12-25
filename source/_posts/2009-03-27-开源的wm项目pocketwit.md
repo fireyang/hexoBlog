@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-27 00:00:00
 title: 开源的WM项目pocketwit
 categories:
 - .Net

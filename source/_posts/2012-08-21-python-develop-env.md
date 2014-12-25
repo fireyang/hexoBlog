@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-08-21 00:00:00
 title: "python develop env"
 description: ""
 category: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-12-01 00:00:00
 title: flex中datagrid中的过滤功能
 categories:
 - 未分类

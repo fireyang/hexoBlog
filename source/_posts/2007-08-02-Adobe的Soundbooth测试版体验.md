@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: Adobe的Soundbooth测试版体验
 categories:
 - 未分类

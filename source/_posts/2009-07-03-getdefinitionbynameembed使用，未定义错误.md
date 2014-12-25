@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-07-03 00:00:00
 title: getDefinitionByName+Embed使用，未定义错误
 categories:
 - actionscript

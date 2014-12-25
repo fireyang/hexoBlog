@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-07-29 00:00:00
 title: ubunt下wine＋TM2008 Preview4稳定运行
 categories:
 - ubuntu

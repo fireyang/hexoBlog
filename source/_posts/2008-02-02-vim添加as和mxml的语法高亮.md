@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-02-02 00:00:00
 title: vim添加as和mxml的语法高亮
 categories:
 - actionscript

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-12-06 00:00:00
 title: 试用Google Friend Connect！
 categories:
 - 杂七杂八

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-01-02 00:00:00
 title: firefox中的flashPlayer可以全屏了
 categories:
 - 关于RIA

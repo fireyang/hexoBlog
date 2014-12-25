@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-01-29 00:00:00
 title: python的cheat sheet
 categories:
 - python

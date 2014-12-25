@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-11-11 00:00:00
 title: extjs动态列－－editorGridPanel(2.2)
 categories:
 - 胡说八道

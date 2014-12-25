@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-08-05 00:00:00
 title: AS通用类库--CASALib
 categories:
 - actionscript

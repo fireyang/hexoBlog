@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-09-15 00:00:00
 title: "Sprite Sheet Tools 收集"
 description: ""
 category: 

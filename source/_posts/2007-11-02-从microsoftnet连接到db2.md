@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-11-02 00:00:00
 title: 从Microsoft.NET连接到DB2
 categories:
 - .Net

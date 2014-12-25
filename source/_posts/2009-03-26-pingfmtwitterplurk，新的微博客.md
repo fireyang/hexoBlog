@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-26 00:00:00
 title: ping.fm+twitter+plurk，新的微博客
 categories:
 - 杂七杂八

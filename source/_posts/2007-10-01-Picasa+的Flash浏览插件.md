@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-10-01 00:00:00
 title: Picasa 的Flash浏览插件
 categories:
 - 未分类

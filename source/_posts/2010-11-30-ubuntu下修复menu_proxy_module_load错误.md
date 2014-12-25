@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-11-30 00:00:00
 title: ubuntu下修复menu_proxy_module_load错误
 categories:
 - ubuntu

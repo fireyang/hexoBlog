@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-08-10 00:00:00
 title: "异步操作"
 description: ""
 category: 

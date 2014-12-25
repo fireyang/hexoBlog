@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-28 00:00:00
 title: google code有项目分享功能了
 categories:
 - 杂七杂八

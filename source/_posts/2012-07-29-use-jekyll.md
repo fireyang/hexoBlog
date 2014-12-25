@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-07-29 00:00:00
 title: "jekyll的使用技巧"
 description: "jekyll的使用"
 category: jekyll

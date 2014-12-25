@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-07-15 00:00:00
 title: AS一个新的框架Prana Framework
 categories:
 - actionscript

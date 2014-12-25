@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-02-01 00:00:00
 title: Ubuntu下切换JDK版本
 categories:
 - ubuntu

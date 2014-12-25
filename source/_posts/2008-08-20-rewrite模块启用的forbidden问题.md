@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-08-20 00:00:00
 title: rewrite模块启用的Forbidden问题
 categories:
 - ubuntu

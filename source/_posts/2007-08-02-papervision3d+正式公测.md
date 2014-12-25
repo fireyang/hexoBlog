@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: papervision3d 正式公测
 categories:
 - 未分类

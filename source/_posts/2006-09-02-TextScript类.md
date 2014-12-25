@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-09-02 00:00:00
 title: TextScript类
 categories:
 - 未分类

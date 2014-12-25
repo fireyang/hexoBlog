@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-12-20 00:00:00
 title: 34个有用的ActionScript 3.0的API
 categories:
 - actionscript

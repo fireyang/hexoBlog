@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-02-07 00:00:00
 title: linux开发必需掌握的makefile
 categories:
 - ubuntu

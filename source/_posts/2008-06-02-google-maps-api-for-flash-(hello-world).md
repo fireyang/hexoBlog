@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-06-02 00:00:00
 title: Google Maps API for Flash (Hello World)
 categories:
 - 胡说八道

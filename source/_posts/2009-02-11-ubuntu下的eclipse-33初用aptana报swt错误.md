@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-02-11 00:00:00
 title: ubuntu下的eclipse 3.3初用aptana报SWT错误
 categories:
 - ubuntu

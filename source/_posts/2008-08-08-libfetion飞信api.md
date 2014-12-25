@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-08-08 00:00:00
 title: LibFetion飞信API
 categories:
 - 其他

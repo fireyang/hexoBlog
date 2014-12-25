@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: ASP.NET中的标签映射（Tag mapping ）（译）
 categories:
 - .Net

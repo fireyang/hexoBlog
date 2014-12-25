@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-09-10 00:00:00
 title: ubuntu中flash乱码
 categories:
 - ubuntu

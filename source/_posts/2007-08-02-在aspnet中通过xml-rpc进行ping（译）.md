@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: 在 ASP.NET中通过 XML-RPC 进行Ping（译）
 categories:
 - .Net

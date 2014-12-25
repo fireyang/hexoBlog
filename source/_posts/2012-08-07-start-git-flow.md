@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-08-07 00:00:00
 title: "git-flow资料"
 description: ""
 category: git

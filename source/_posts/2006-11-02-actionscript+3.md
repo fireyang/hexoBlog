@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-11-02 00:00:00
 title: actionscript 3.0 cookbook
 categories:
 - 未分类

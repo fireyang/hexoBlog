@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-10-01 00:00:00
 title: FlashDevelop工具的使用
 categories:
 - 未分类

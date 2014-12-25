@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-08-07 00:00:00
 title: cctv & adobe共建奥运直播
 categories:
 - 杂七杂八

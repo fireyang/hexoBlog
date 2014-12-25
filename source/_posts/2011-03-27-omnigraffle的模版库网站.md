@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-03-27 00:00:00
 title: OmniGraffle的模版库网站
 categories:
 - 其他

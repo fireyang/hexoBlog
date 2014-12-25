@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-12-02 00:00:00
 title: google的图表API
 categories:
 - 其他

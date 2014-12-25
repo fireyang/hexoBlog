@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-11-23 00:00:00
 title: 通过wifi实现Android 的真机调试
 categories:
 - android

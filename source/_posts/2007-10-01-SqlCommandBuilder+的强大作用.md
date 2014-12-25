@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-10-01 00:00:00
 title: SqlCommandBuilder 的强大作用
 categories:
 - 未分类

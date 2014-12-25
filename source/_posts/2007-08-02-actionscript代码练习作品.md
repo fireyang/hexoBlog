@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: actionscript代码练习作品
 categories:
 - 未分类

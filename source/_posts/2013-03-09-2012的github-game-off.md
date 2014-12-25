@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2013-03-09 00:00:00
 title: 2012的Github Game Off
 categories:
 - 开源

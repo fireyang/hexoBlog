@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-09-21 00:00:00
 title: 制作FlashDevelop的分享包
 categories:
 - actionscript

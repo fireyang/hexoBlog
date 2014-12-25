@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-02-13 00:00:00
 title: 原创翻译：在windows下安装cakephp
 categories:
 - php

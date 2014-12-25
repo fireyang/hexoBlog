@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-03-17 00:00:00
 title: 在ubuntu中捕获trace
 categories:
 - actionscript

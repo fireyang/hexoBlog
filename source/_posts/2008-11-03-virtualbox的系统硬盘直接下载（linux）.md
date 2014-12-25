@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-11-03 00:00:00
 title: Virtualbox的系统硬盘直接下载（linux）
 categories:
 - 其他

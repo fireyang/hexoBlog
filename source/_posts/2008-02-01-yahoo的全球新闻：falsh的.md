@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-02-01 00:00:00
 title: yahoo的全球新闻：falsh的
 categories:
 - 关于RIA

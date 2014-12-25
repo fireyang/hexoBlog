@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-02-28 00:00:00
 title: FlashPlayer 支持GPU的3D 出来了
 categories:
 - actionscript

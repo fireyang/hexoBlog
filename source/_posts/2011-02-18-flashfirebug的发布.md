@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-02-18 00:00:00
 title: FlashFireBug的发布
 categories:
 - actionscript

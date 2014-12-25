@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-04-03 00:00:00
 title: debian支持sql server连接
 categories:
 - ubuntu

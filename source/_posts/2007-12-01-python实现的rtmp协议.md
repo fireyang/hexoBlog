@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-12-01 00:00:00
 title: python实现的RTMP协议
 categories:
 - python

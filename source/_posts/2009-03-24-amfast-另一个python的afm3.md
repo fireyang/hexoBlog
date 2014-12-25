@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-24 00:00:00
 title: AmFast 另一个python的AFM3
 categories:
 - python

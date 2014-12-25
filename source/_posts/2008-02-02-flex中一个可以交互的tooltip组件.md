@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-02-02 00:00:00
 title: Flex中一个可以交互的ToolTip组件
 categories:
 - flex

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-07-31 00:00:00
 title: qq for linux，终于发布了
 categories:
 - ubuntu

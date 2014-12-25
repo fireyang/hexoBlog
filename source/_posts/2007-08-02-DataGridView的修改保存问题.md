@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: DataGridView的修改保存问题
 categories:
 - 未分类

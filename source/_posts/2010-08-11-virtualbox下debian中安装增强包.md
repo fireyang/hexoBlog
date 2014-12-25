@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-08-11 00:00:00
 title: Virtualbox下Debian中安装增强包
 categories:
 - 其他

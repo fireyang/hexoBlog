@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-02-10 00:00:00
 title: FD下的exportswc插件的错误解决
 categories:
 - 未分类

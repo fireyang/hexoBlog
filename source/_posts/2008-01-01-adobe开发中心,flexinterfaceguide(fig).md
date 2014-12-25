@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-01-01 00:00:00
 title: Adobe开发中心,Flex Interface Guide(FIG)
 categories:
 - 关于RIA

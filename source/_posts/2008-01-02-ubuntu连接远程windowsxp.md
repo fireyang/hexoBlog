@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-01-02 00:00:00
 title: ubuntu 连接远程 windows xp
 categories:
 - ubuntu

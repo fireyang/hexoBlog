@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-11-03 00:00:00
 title: Ubuntu下安装和卸载AIR
 categories:
 - Air

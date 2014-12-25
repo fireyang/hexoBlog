@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-11-05 00:00:00
 title: 在github pages上写文章
 categories:
 - 其他

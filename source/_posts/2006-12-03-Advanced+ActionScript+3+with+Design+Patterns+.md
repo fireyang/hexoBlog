@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2006-12-03 00:00:00
 title: Advanced ActionScript 3 with Design Patterns
 categories:
 - 未分类

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-07-27 00:00:00
 title: FlashDevelop导出SWC工具
 categories:
 - actionscript

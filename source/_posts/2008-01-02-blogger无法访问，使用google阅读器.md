@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-01-02 00:00:00
 title: Blogger无法访问，使用google阅读器
 categories:
 - 杂七杂八

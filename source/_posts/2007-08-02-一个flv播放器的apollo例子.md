@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: 一个FLV播放器的Apollo例子
 categories:
 - flex

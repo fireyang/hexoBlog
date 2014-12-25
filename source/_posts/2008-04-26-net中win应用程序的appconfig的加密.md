@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-04-26 00:00:00
 title: .net中win应用程序的app.config的加密
 categories:
 - .Net

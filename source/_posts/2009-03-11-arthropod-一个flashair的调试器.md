@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-11 00:00:00
 title: Arthropod 一个Flash&AIR的调试器
 categories:
 - Air

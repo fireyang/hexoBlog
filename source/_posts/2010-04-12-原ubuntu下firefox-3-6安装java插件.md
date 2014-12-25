@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2010-04-12 00:00:00
 title: '[原]ubuntu下firefox 3.6安装java插件'
 categories:
 - ubuntu

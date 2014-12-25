@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-02-28 00:00:00
 title: gtalk也有flash版的客户端
 categories:
 - actionscript

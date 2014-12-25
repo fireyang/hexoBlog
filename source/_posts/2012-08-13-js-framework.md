@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2012-08-13 00:00:00
 title: "js framework"
 description: ""
 category: 

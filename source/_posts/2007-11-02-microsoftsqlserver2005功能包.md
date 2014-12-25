@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-11-02 00:00:00
 title: Microsoft SQL Server 2005 功能包
 categories:
 - database

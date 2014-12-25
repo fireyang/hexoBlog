@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-03-08 00:00:00
 title: Molehill最近是热门话题， demo收集
 categories:
 - actionscript

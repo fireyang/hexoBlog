@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2008-03-18 00:00:00
 title: 搬家到wordpress上来了
 categories:
 - 胡说八道

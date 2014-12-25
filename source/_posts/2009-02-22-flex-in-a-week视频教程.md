@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-02-22 00:00:00
 title: Flex in a Week视频教程
 categories:
 - flex

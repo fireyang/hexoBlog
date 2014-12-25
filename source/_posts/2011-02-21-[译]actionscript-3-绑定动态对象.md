@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2011-02-21 00:00:00
 title: '[译]ActionScript 3 绑定动态对象'
 categories:
 - 其他

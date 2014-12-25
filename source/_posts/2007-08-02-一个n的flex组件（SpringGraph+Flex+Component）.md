@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: 一个n的flex组件（SpringGraph Flex Component）
 categories:
 - 未分类

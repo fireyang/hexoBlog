@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: BlogEngine.NET 的优势
 categories:
 - .Net

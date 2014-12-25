@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-11-01 00:00:00
 title: FlashPlayerTrust on Gnu/Linux（ubuntu）
 categories:
 - actionscript

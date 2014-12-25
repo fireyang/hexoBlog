@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: DB2参照约束的删除规则（delete rule）
 categories:
 - 其他

@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2007-08-02 00:00:00
 title: Cairngorm的简单结构图
 categories:
 - actionscript

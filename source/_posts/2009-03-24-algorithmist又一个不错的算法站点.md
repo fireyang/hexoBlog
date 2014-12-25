@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2009-03-24 00:00:00
 title: algorithmist又一个不错的算法站点
 categories:
 - actionscript

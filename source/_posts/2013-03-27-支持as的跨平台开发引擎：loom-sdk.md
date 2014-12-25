@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2013-03-27 00:00:00
 title: 支持AS的跨平台开发引擎：Loom SDK
 categories:
 - 其他
