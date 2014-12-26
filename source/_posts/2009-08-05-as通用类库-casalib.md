@@ -5,7 +5,7 @@ title: AS通用类库--CASALib
 categories:
 - actionscript
 tags:
-- actions
+- actionscript
 published: true
 comments: true
 ---

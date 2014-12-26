@@ -5,7 +5,7 @@ title: rewrite模块启用的Forbidden问题
 categories:
 - ubuntu
 tags:
-- apache2
+- apache
 - rewrite
 - ubuntu
 published: true

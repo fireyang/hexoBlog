@@ -6,7 +6,6 @@ categories:
 - .Net
 tags:
 - .Net
-- Tag mapping
 published: true
 comments: true
 ---
