@@ -3,7 +3,6 @@ layout: post
 date: 2009-02-12 00:00:00
 title: 移动火狐（FireFox）发布下载（WM）
 categories:
-- 其他
 - 胡说八道
 tags:
 - fennec

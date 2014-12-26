@@ -3,9 +3,7 @@ layout: post
 date: 2008-03-31 00:00:00
 title: FLEX linux alpha3出来了，支持RIA
 categories:
-- flex
 - ubuntu
-- 关于RIA
 tags:
 - flex
 - ria

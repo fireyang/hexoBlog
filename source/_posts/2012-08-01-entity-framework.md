@@ -3,9 +3,11 @@ layout: post
 date: 2012-08-01 00:00:00
 title: "游戏框架--Entity Framework(实体框架)"
 description: ""
-category: develop
+category: 
+- framework
 tags: [entity framework, develop]
 ---
+
 
 
 # 什么是Entity Framework(实体框架)

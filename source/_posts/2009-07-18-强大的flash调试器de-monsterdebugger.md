@@ -4,11 +4,10 @@ date: 2009-07-18 00:00:00
 title: 强大的Flash调试器De MonsterDebugger
 categories:
 - actionscript
-- Air
 tags:
 - Air
 - Debuger
-- Flash
+- actionscript
 published: true
 comments: true
 ---

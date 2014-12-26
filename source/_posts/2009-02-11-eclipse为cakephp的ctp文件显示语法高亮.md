@@ -4,7 +4,6 @@ date: 2009-02-11 00:00:00
 title: Eclipse为Cakephp的.ctp文件显示语法高亮
 categories:
 - php
-- 胡说八道
 tags:
 - cakephp
 - eclipse

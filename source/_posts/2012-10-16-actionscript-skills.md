@@ -2,10 +2,12 @@
 layout: post
 date: 2012-10-16 00:00:00
 title: "[转]AS文本位图描边"
-description: ""
-category: ActionScript
-tags: [ActionScript]
+category: 
+- actionscript
+tags: 
+- actionscript
 ---
+
 
 ## 文本位图描边 ##
 来源：James Li 的[《使用位图滤镜为动态文本描边》](http://jamesli.cn/blog/?p=1489)

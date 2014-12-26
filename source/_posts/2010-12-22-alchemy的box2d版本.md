@@ -3,10 +3,10 @@ layout: post
 date: 2010-12-22 00:00:00
 title: alchemy的Box2D版本
 categories:
-- actionscript
-- 其他
+- box2d
 tags:
 - actionscript
+- box2d
 - alchemy
 published: true
 comments: true

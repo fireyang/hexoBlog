@@ -4,7 +4,6 @@ date: 2009-04-22 00:00:00
 title: ［原创翻译］Papervision3D 2.0 Alpha-Great While
 categories:
 - actionscript
-- flex
 tags:
 - 3d
 - flex

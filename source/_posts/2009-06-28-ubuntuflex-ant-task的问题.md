@@ -4,7 +4,6 @@ date: 2009-06-28 00:00:00
 title: ubuntu+flex ant task的问题
 categories:
 - flex
-- ubuntu
 tags:
 - ant
 - flex

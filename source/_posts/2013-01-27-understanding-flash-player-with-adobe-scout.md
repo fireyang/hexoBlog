@@ -1,10 +1,10 @@
----
 layout: post
 date: 2013-01-27 00:00:00
-title: "通过Adobe Scout 了解Flash Player"
-description: ""
-category: ActionScript
-tags: [ActionScript]
+title: 通过Adobe Scout 了解Flash Player
+category: 
+- actionscript
+tags:
+- actionscript
 ---
 
 原文：

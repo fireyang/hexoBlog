@@ -3,7 +3,6 @@ layout: post
 date: 2009-01-29 00:00:00
 title: 删除ubuntu上安装的air程序
 categories:
-- Air
 - ubuntu
 tags:
 - Air
