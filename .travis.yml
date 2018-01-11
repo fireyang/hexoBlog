@@ -8,6 +8,8 @@ cache:
     yarn: true
     directories:
         - node_modules
+        - public
+        - .deploy_git
 
 install: npm install
 
