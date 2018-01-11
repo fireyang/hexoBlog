@@ -9,7 +9,7 @@ cache:
     directories:
         - node_modules
         # - public
-        - .deploy_git
+        # - .deploy_git
 
 install: npm install
 
