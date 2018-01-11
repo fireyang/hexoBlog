@@ -1,0 +1,22 @@
+language: node_js
+node_js: stable
+branches:
+  only:
+  - deploy
+cache:
+    apt: true
+    yarn: true
+    directories:
+        - node_modules
+
+install: npm install
+
+before_script:
+- git config --global user.name "fireyang"
+- git config --global user.email "shenhuan007@gmail.com"
+- sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+
+script:
+# npm run build
+- hexo clean
+- hexo deploy

@@ -26,4 +26,7 @@ docker hub: https://hub.docker.com/r/fireyang/hexo/
 # 后续工作:
 . 运行在vps上，根据github的hook自动部署
 
+# 其他：
+听说用Travis更省力，这样就可以不需要vps上做什么东西了！那就用docker来做本地的预览吧
+
 
