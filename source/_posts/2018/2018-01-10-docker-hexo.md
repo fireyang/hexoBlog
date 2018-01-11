@@ -22,6 +22,9 @@ docker hub: https://hub.docker.com/r/fireyang/hexo/
 ## 完成的改造：
 . 换主题: next http://theme-next.iissnan.com/
 . 支持部署到github
+. 支持Travis自动部署了，参考：
+    . [Auto Deploy Hexo.io to Github Pages With Travis CI](http://kflu.github.io/2017/01/03/2017-01-03-hexo-travis/)
+    . [使用 Travis 自动部署 Hexo 到 Github 与 自己的服务器](https://segmentfault.com/a/1190000009054888)
 
 # 后续工作:
 . 运行在vps上，根据github的hook自动部署
