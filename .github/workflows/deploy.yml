@@ -3,7 +3,7 @@ name: CI
 on:
     push:
         branches:
-            - deploy2
+            - deploy
 
 env:
     GIT_USER: fireyang
@@ -42,7 +42,7 @@ jobs:
 
             - name: Install Dependencies
               run: yarn
-                
+
             - name: Build static
               run: yarn build
 
