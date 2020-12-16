@@ -40,13 +40,11 @@ jobs:
                   restore-keys: |
                       ${{ runner.OS }}-npm-cache
 
-             - name: Install dependencies
-               run: |
-                   yarn
-
-             - name: Build static
-               run: |
-                   yarn build
+            - name: Install Dependencies
+              run: yarn
+                
+            - name: Build static
+              run: yarn build
 
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
