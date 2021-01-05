@@ -20,4 +20,8 @@ comments: true
 
 <p>入门视频:</p>
 
-<p><object width="480" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" align="middle"><param name="src" value="http://player.youku.com/player.php/sid/XNTMzNjkwMjE2/v.swf" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XNTMzNjkwMjE2/v.swf" allowfullscreen="true" quality="high" allowscriptaccess="always" align="middle" /></object></p>
+<p>
+<iframe width="1002" height="626" src="https://www.youtube.com/embed/fMxvyB1fMNY"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
+</p>
