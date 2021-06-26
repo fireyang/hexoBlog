@@ -11,6 +11,26 @@ hackmd第一篇文章
 [hackmd.io](https://hackmd.io)  
 很方便的同步github的仓库里的md文章,  
 写起来还是挺舒服的
+### 简单修改
+
+支持数学公式  
+``` bash
+yarn add hexo-filter-mathjax
+#  _config.yml 添加配置，使用方式看文章下方的“数学公式”章节
+# ps： 文章页meta信息添加：mathjax: true
+mathjax:
+  tags: none # or 'ams' or 'all'
+  single_dollars: true # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9 # relative CJK char width
+  normal_width: 0.6 # relative normal (monospace) width
+  append_css: true # add CSS to pages rendered by MathJax
+  every_page: false
+```
+
+支持Graphviz  
+```
+yarn add https://github.com/dwatow/hexo-filter-viz.git
+```
 
 ### 代码块
 ``` python
