@@ -3,16 +3,18 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "5.2.0"
+    "version": "5.4.0"
   },
   "scripts": {
     "build": "hexo generate",
     "server": "hexo server"
   },
   "dependencies": {
-    "hexo": "^5.2.0",
+    "hexo": "^5.4.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-filter-flowchart": "^1.0.4",
+    "hexo-filter-mathjax": "^0.7.1",
+    "hexo-filter-viz": "https://github.com/dwatow/hexo-filter-viz.git",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -23,6 +25,6 @@
     "hexo-renderer-marked": "^3.3.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
-    "hexo-theme-next": "^8.1.0"
+    "hexo-theme-next": "^8.5.0"
   }
 }

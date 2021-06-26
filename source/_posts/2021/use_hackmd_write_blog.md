@@ -2,6 +2,7 @@
 title: hackmd第一篇文章
 date: 2021-06-26 22:35:04
 tags:
+mathjax: true
 ---
 
 hackmd第一篇文章
