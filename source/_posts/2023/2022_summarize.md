@@ -1,4 +1,12 @@
-# 2022年总结
+---
+title: 2022年总结
+tags:
+---
+2022年总结
+===
+
+[![hackmd-github-sync-badge](https://hackmd.io/ToB2jX-ATumJBfj_FquZDQ/badge)](https://hackmd.io/ToB2jX-ATumJBfj_FquZDQ)
+
 
 **关于疫情**
 
