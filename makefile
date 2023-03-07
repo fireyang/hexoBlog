@@ -3,7 +3,7 @@ ARGS=
 server2:
 	docker run --rm --name=hexo -p 4000:4000 -v `pwd`:/blog fireyang/hexo hexo server
 server:
-	npx hexo server
+	pnpm hexo server
 bash:
 	docker run -it --rm -v `pwd`:/blog fireyang/hexo /bin/bash
 
