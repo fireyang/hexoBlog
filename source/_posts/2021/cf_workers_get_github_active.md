@@ -15,7 +15,7 @@ cloudflare workers可以理解为一个免费的mini web server，详情请看�
 
 重要的一点：免费计划配额还不少，还支持cron定时任务，完美！  
 <!-- ![](https://i.imgur.com/ODAAKoG.png =500x) -->
-<img src="https://i.imgur.com/ODAAKoG.png" width=500 />
+<img src="/media/2023/ODAAKoG.png" width=500 />
 
 
 ## 过程
@@ -28,11 +28,11 @@ cloudflare workers可以理解为一个免费的mini web server，详情请看�
 3. 定时任务  
 使用workers的cron功能，定时抓取github rss数，再通过telegram机器人发送消息
 <!-- ![](https://i.imgur.com/GeJEP7J.png =500x) -->
-<img src="https://i.imgur.com/GeJEP7J.png" width=500 />
+<img src="/media/2023/GeJEP7J.png" width=500 />
 
 ## 最终成果
 <!-- ![](https://i.imgur.com/WssXWSt.png =500x) -->
-<img src="https://i.imgur.com/WssXWSt.png" width=500 />
+<img src="/media/2023/WssXWSt.png" width=500 />
 
 ## 其他参考
 * [cf workers帮助文档](https://developers.cloudflare.com/workers/)  
